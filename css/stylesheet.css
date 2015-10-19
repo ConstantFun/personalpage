@@ -19,8 +19,8 @@ margin:0 auto;}
 
 .float {display:inline-block; vertical-align:top; margin-top:15px; padding:0 10px;}
 
-.bio_wrap_english {width:45%}
-.bio_wrap_japanese { width:45%; padding-left: 0;}
+.bio_wrap_english {width: 45%; padding-left: 15px;}
+.bio_wrap_japanese { width:45%; padding-left: 15px;}
 
 .english_title { text-align:right; font-family: 'Bitter', serif; font-size:30px; font-weight:700; color:#525252;}
 
